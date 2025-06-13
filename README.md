@@ -29,7 +29,7 @@ I work with modern stacks (think: Symfony, Nuxt, Tailwind, TypeScript...) and I 
 
 ```js
 const profile = {
-  skills: ['Nuxt', 'Vue', 'Symfony', 'Tailwind', 'TypeScript', 'Stimulus', 'Turbo'],
+  skills: ['Nuxt', 'Vue', 'Astro', 'Symfony', 'Tailwind', 'TypeScript', 'Stimulus', 'Turbo'],
   traits: ['debugger whisperer', 'pixel perfectionist', 'terminal romantic'],
   weaknesses: ['dark mode bias', 'coffee overclocking'],
   motto: 'Who controls the Internet, controls the World...'
